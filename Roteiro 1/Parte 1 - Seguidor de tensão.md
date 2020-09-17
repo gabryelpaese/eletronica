@@ -24,6 +24,7 @@ Utilizando um Amp.OP. Lm324N e um TL082 monte dois circuitos na configuração d
 ### DE ACORDO COM O CIRCUITO SEGUIDOR DE TENSÃO O FORMATO DE ONDA DA TENSÃO DE ENTRADA:
 
 ![ondatensaoentrada](/resources/imagens/relatorio1/parte1/ondatensaoentrada.png)
+![cursor](/resources/imagens/relatorio1/parte1/cursorentrada.png)
 
 ### CIRCUITO SEGUIDOR DE TENSÃO COM O AMPOP LM324M
 
@@ -32,6 +33,7 @@ Utilizando um Amp.OP. Lm324N e um TL082 monte dois circuitos na configuração d
 Tensão de saída do circuito:
 
 ![tensaosaidalm324m](/resources/imagens/relatorio1/parte1/tensaosaidalm324m.png)
+![cursorsaidalm324m](/resources/imagens/relatorio1/parte1/cursorsaidalm324m.png)
 
 Comparação entre tensão de entrada e saída do circuito:
 
