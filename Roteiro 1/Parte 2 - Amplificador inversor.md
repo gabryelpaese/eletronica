@@ -21,28 +21,28 @@ Utilizando um Amp.OP. Lm324N e um TL082 monte dois amplificadores inversores uti
 7. Não desmonte o circuito!!
 
 ### CALCULO PARA O GANHO DE TENSÃO (AV):
-![p2conta]()
+![]()
 
 ### DE ACORDO COM O CIRCUITO AMPLIFICADOR INVERSOR O FORMATO DE ONDA DA TENSÃO DE ENTRADA:
-![tensoafonte]()
+![]()
 
 ### CIRCUITO AMPLIFICADOR INVERSOR COM O AMPOP LM324M
-![p2circ1]()
+![]()
 
 Tensão de saída do circuito:
-![p2onda1]()
+![]()
 
 Comparação entre tensão de entrada e saída do circuito:
-![p2onda1]()
+![]()
 
 ### CIRCUITO AMPLIFICADOR INVERSOR COM O AMPOP TL082
-![p2circ2]()
+![]()
 
 Tensão de saída do circuito:
-![p2onda2]()
+![]()
 
 Comparação entre tensão de entrada e saída do circuito:
-![p2onda2]()
+![]()
 
 ### RESULTADOS SIMULAÇÕES
 Nos dois circuitos simulados anteriormente a amplitude do sinal da tensão de saída é de 5V e possuindo um ganho de -10.
@@ -50,25 +50,25 @@ Nos dois circuitos simulados anteriormente a amplitude do sinal da tensão de sa
 ### ANÁLISE DE SATURAÇÃO: CIRCUITO COM LM324N
 
 Sinal de tensão de saída do circuito com 1,08V de amplitude na tensão de entrada (saturação positiva):
-![p2onda3]()
-![p2onda31]()
+![]()
+![]()
 
 Na tensão 10,77V ocorreu saturação positiva tendo um valor de queda de tensão de 1,23V.
 
 
 Sinal de tensão de saída do circuito com 1,14V de amplitude na tensão de entrada (saturação negativa e positiva):
-![p2onda4]()
-![p2onda41]()
-![p2onda42]()
+![]()
+![]()
+![]()
 
 Na tensão -11,32V ocorreu saturação negativa, tendo um valor de queda de tensão de -0,68V. Saturação positiva continua sendo 10,77V.
 
 ### ANÁLISE DE SATURAÇÃO: CIRCUITO COM TL082
 
 Sinal de tensão de saída do circuito com 1,06V de amplitude na tensão de entrada (saturação positiva e negativa):
-![p2onda5]()
-![p2onda51]()
-![p2onda52]()
+![]()
+![]()
+![]()
 
 Na tensão 10,37V ocorreu saturação positiva e na tensão de -10,37 ocorreu a saturação negativa, tendo um valor de queda de tensão de 1,63V e -1,63V.
 
