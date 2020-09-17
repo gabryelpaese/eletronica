@@ -42,16 +42,17 @@ Comparação entre tensão de entrada e saída do circuito:
 
 ### CIRCUITO SEGUIDOR DE TENSÃO COM O AMPOP TL082
 
-![](/resources/imagens/relatorio1/parte 1/)
+![circuitotl082](/resources/imagens/relatorio1/parte1/circuitotl082.png)
 
 Tensão de saída do circuito:
 
-![](/resources/imagens/relatorio1/parte 1/)
+![tensaosaidatl082](/resources/imagens/relatorio1/parte1/tensaosaidatl082.png)
+![cursorsaidatl082](/resources/imagens/relatorio1/parte1/cursorsaidatl082.png)
 
 Comparação entre tensão de entrada e saída do circuito:
 
-![](/resources/imagens/relatorio1/parte 1/)
-![](/resources/imagens/relatorio1/parte 1/)
+![comparaçaosaidaentradatl082](/resources/imagens/relatorio1/parte1/comparaçaosaidaentradatl082.png)
+![2comparaçaosaidaentradatl082](/resources/imagens/relatorio1/parte1/2comparaçaosaidaentradatl082.png)
 
 ### RESULTADOS
 O seguidor de tensão, fornece um ganho unitário sem inversão de polaridade ou fase. Portanto a saída possui mesma amplitude, polaridade e fase de entrada. O circuito atua como isolador (buffer) de estágios, reforçador de correntes e casador de impedâncias.
