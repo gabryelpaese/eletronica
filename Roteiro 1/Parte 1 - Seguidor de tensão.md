@@ -1,16 +1,16 @@
-# Roteiro 1 - AmpOp
+# Roteiro 1
 
 ## Parte 1: Seguidor de Tensão
 
-###### OBJETIVOS:
+##### OBJETIVOS:
 
 Verificar o funcionamento de um circuito seguidor de tensão.
 
-###### EXPERIMENTO:
+##### EXPERIMENTO:
 
 Utilizando um Amp.OP. Lm324N e um TL082 monte dois circuitos na configuração de seguidor de tensão (Buffer), com uma resistência de realimentação de 10 kΩ em cada um dos circuitos. Utilize a alimentação simétrica de +/-12V (limite a corrente em 0,05A).
 
-###### PROCEDIMENTO:
+##### PROCEDIMENTO:
 
 1. Monte o circuito em uma matriz de contatos (protoboard) e antes de ligar as fontes chame o professor.
 2. Configure no gerador de função um sinal senoidal com 0,5Vp @ 1 kHz e mostre o mesmo no canal 1 do osciloscópio.
@@ -18,37 +18,27 @@ Utilizando um Amp.OP. Lm324N e um TL082 monte dois circuitos na configuração d
 
 
 ### CALCULO PARA O GANHO DE TENSÃO (AV):
-(Vin-Vout)/10k=0
-Vin=Vout
-Av=Vout/Vin=1
-
-
 ![p1conta1]()
 
 ### DE ACORDO COM O CIRCUITO SEGUIDOR DE TENSÃO O FORMATO DE ONDA DA TENSÃO DE ENTRADA:
 ![tensaofonte]()
 
 ### CIRCUITO SEGUIDOR DE TENSÃO COM O AMPOP LM324M
-
 ![Circuito1p1]()
 
 Tensão de saída do circuito:
-
 ![p1onda1]()
 
 Comparação entre tensão de entrada e saída do circuito:
 ![p1onda1]()
 
 ### CIRCUITO SEGUIDOR DE TENSÃO COM O AMPOP TL082
-
 ![Circuito2p1]()
 
 Tensão de saída do circuito:
-
 ![p1onda2]()
 
 Comparação entre tensão de entrada e saída do circuito:
-
 ![p1onda2]()
 
 ### RESULTADOS
