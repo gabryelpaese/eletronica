@@ -22,23 +22,25 @@ Utilizando um Amp.OP. Lm324N e um TL082 monte dois amplificadores inversores uti
 
 ### CALCULO PARA O GANHO DE TENSÃO (AV):
 
-![]()
+![calculoganhodetensao](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/calculoganhodetensao.jpeg)
 
 ### DE ACORDO COM O CIRCUITO AMPLIFICADOR INVERSOR O FORMATO DE ONDA DA TENSÃO DE ENTRADA:
 
-![]()
+![ondatensaoentrada](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/ondatensaoentrada.png)
+![cursorentrada](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/cursorentrada.png)
 
 ### CIRCUITO AMPLIFICADOR INVERSOR COM O AMPOP LM324M
 
-![]()
+![circuitoinversorlm324m](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/circuitoinversorlm324m.png)
 
 Tensão de saída do circuito:
 
-![]()
+![tensaosaidalm324m](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/tensaosaidalm324m.png)
+![cursorsaidalm324m](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/cursorsaidalm324m.png)
 
 Comparação entre tensão de entrada e saída do circuito:
 
-![]()
+![comparacaosaidaentradalm324m](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/comparacaosaidaentradalm324m.png)
 
 ### CIRCUITO AMPLIFICADOR INVERSOR COM O AMPOP TL082
 
