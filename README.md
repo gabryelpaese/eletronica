@@ -6,7 +6,7 @@ Aluno: Gabryel Luiz de Aguiar Paese
 
 ## Roteiro 1
 ### [Parte 1 - Seguidor de tensão](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%201/Parte%201%20-%20Seguidor%20de%20tens%C3%A3o.md)
-### [Parte 2 - Amplificador Inversor](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%201/Parte%202%20-%20Amplificador%20inversor.md)
+### [Parte 2 - Amplificador Inversor](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%201/Parte%202%20-%20Amplificador%201nversor.md)
 ### [Parte 3 - Amplificador não-inversor](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%201/Parte%203%20-%20Amplificador%20n%C3%A3o-inversor.md)
 ### [Parte 4 - Amplificador subtrator](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%201/Parte%204%20-%20Amplificador%20subtrator.md)
 
