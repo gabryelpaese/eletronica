@@ -4,7 +4,7 @@
 
 ##### OBJETIVOS:
 
-Medir o ganho de um amplificador inversor e verificar o efeito da saturação
+Medir o ganho de um amplificador inversor e verificar o efeito da saturação.
 
 ##### EXPERIMENTO:
 
@@ -44,15 +44,15 @@ Comparação entre tensão de entrada e saída do circuito:
 
 ### CIRCUITO AMPLIFICADOR INVERSOR COM O AMPOP TL082
 
-![]()
+![circuitoinversortl082](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/circuitoinversortl082.png)
 
 Tensão de saída do circuito:
 
-![]()
+![tensaosaidatl082](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/tensaosaidatl082.png)
 
 Comparação entre tensão de entrada e saída do circuito:
 
-![]()
+![comparacaosaidaentradatl082](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/comparacaosaidaentradatl082.png)
 
 ### RESULTADOS SIMULAÇÕES
 
@@ -62,17 +62,20 @@ Nos dois circuitos simulados anteriormente a amplitude do sinal da tensão de sa
 
 Sinal de tensão de saída do circuito com 1,08V de amplitude na tensão de entrada (saturação positiva):
 
-![]()
-![]()
+![saturacaolm324m](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/saturacaolm324m.png)
+![2saturacaolm324m](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/2saturacaolm324m.png)
+![cursorsaturacaolm324m1](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/cursorsaturacaolm324m1-2.png)
 
 Na tensão 10,77V ocorreu saturação positiva tendo um valor de queda de tensão de 1,23V.
 
 
 Sinal de tensão de saída do circuito com 1,14V de amplitude na tensão de entrada (saturação negativa e positiva):
 
-![]()
-![]()
-![]()
+![3saturacaolm324m](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/3saturacaolm324m.png)
+![4saturacaolm324m](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/4saturacaolm324m.png)
+![cursorsaturacaolm324m2](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/cursorsaturacaolm324m1-2.png)
+![5saturacaolm324m](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/5saturacaolm324m.png)
+![cursorsaturacaolm324m3](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/cursorsaturacaolm324m3.png)
 
 Na tensão -11,32V ocorreu saturação negativa, tendo um valor de queda de tensão de -0,68V. Saturação positiva continua sendo 10,77V.
 
@@ -80,9 +83,11 @@ Na tensão -11,32V ocorreu saturação negativa, tendo um valor de queda de tens
 
 Sinal de tensão de saída do circuito com 1,06V de amplitude na tensão de entrada (saturação positiva e negativa):
 
-![]()
-![]()
-![]()
+![saturacaotl082](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/saturacaotl082.png)
+![2saturacaotl082](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/2saturacaotl082.png)
+![cursorsaturacao](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/cursorsaturacaotl082.png)
+![3saturacaotl082](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/3saturacaotl082.png)
+![cursorsaturacao2](https://github.com/gabryelpaese/eletronica1/blob/master/resources/imagens/relatorio1/parte2/cursorsaturacaotl082-2.png)
 
 Na tensão 10,37V ocorreu saturação positiva e na tensão de -10,37 ocorreu a saturação negativa, tendo um valor de queda de tensão de 1,63V e -1,63V.
 
