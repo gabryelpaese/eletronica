@@ -1,6 +1,6 @@
 # Roteiro 1
 
-## Parte 3: Amplificador não-inversor
+## Parte 4: Amplificador subtrator
 
 ##### OBJETIVOS:
 
@@ -13,14 +13,12 @@ use o resistor de realimentação com valor 510kΩ e ganho igual á 10V/V. Utili
 
 ##### PROCEDIMENTO:
 
-1. Monte o circuito em uma matriz de contatos (protoboard) e antes de ligar as fontes chame
-o professor.
+1. Monte o circuito em uma matriz de contatos (protoboard) e antes de ligar as fontes chame o professor.
 2. Compare os resultados para o LM324N e para TL082.
-3. Caso a fonte V1 tenha o valor igual á 0(zero)V, qual o valor da tensão de saída, para
-ambos os circuitos? Explique.
+3. Caso a fonte V1 tenha o valor igual á 0(zero)V, qual o valor da tensão de saída, para ambos os circuitos? Explique.
 4. Caso o seja alterado para o circuito abaixo, existe alguma variação na saída? Explique.
 5. Justifique as dissimilaridades encontradas utilizando os dados do datasheet.
 
-### CALCULO PARA O GANHO DE TENSÃO (AV):
+### CALCULO DE R1:
 
-![]()
+![calculoganhodetensao]()
