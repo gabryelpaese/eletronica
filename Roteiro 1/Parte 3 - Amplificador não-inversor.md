@@ -58,7 +58,7 @@ Comparação entre tensão de entrada e saída do circuito:
 
 ### RESULTADOS SIMULAÇÕES
 
-Nos dois circuitos simulados anteriormente a amplitude do sinal da tensão de saída é de 5,51V e 5,48V, correspondendo a um ganho de 11 vezes o valor de entrada.
+Nos dois circuitos simulados anteriormente a amplitude do sinal da tensão de saída é de 5,51V e 5,49V, correspondendo a um ganho de 11 vezes o valor de entrada.
 
 ### ANÁLISE DE SATURAÇÃO: CIRCUITO COM LM324N
 
@@ -91,10 +91,10 @@ Sinal de tensão de saída do circuito com 1,40V de amplitude na tensão de entr
 ![3saturacaotl082](/resources/imagens/relatorio1/parte3/3saturacaotl082.png)
 ![cursorsaturacaotl0822](/resources/imagens/relatorio1/parte3/cursorsaturacaotl0822.png)
 
-Na tensão 10,47V ocorreu saturação positiva e na tensão de -10,47 ocorreu a saturação negativa, tendo um valor de queda de tensão de 1,53V e -1,53V.
+Na tensão 10,42V ocorreu saturação positiva e na tensão de -10,42 ocorreu a saturação negativa, tendo um valor de queda de tensão de 1,58V e -1,58V.
 
 ### RESULTADOS SATURAÇÃO
 
 Foi observado que o sinal é amplificado e não invertido utilizando o circuito do AmpOp Não Inversor. Nesse experimento o sinal de saída tinha a amplitude onze vezes maior do que o sinal de entrada e os ciclos positivos e negativos do sinal de saída coincidiam com os do sinal de entrada.
 
-Como foi esperado para essa simulação o sinal de tensão de saída dependente da tensão de alimentação que nesse caso foi de 12V. Testando os AmpOp LM324M observamos que o mesmo apresenta tensões de saturação diferentes (10,77V e -11,33V) e o AmpOp TL082 as tensões de saturação foram as mesmas (+-10,47). Isso mostra que as especificações técnicas entre esses dois elementos são diferentes, possuindo diferenças na zona de saturação.
+Como foi esperado para essa simulação o sinal de tensão de saída dependente da tensão de alimentação que nesse caso foi de 12V. Testando os AmpOp LM324M observamos que o mesmo apresenta tensões de saturação diferentes (10,77V e -11,33V) e o AmpOp TL082 as tensões de saturação foram as mesmas (+-10,42V). Isso mostra que as especificações técnicas entre esses dois elementos são diferentes, possuindo diferenças na zona de saturação.

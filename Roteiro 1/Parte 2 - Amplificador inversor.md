@@ -89,10 +89,10 @@ Sinal de tensão de saída do circuito com 1,06V de amplitude na tensão de entr
 ![3saturacaotl082](/resources/imagens/relatorio1/parte2/3saturacaotl082.png)
 ![cursorsaturacao2](/resources/imagens/relatorio1/parte2/cursorsaturacaotl082-2.png)
 
-Na tensão 10,37V ocorreu saturação positiva e na tensão de -10,37 ocorreu a saturação negativa, tendo um valor de queda de tensão de 1,63V e -1,63V.
+Na tensão 10,38V ocorreu saturação positiva e na tensão de -10,38V ocorreu a saturação negativa, tendo um valor de queda de tensão de 1,62V e -1,62V.
 
 ### RESULTADOS SATURAÇÃO
 
 Foi observado que o sinal é amplificado e invertido utilizando o circuito do AmpOp Inversor. Nesse experimento o sinal de saída tinha a amplitude dez vezes maior do que o sinal de entrada e os ciclos positivos do sinal de saída coincidiam com os ciclos negativos do sinal de entrada.
 
-Como foi esperado para essa simulação o sinal de tensão de saída dependente da tensão de alimentação que nesse caso foi de 12V. Testando os AmpOp LM324M observamos que o mesmo apresenta tensões de saturação diferentes (10,77V e -11,32V) e o AmpOp TL082 as tensões de saturação foram as mesmas (+-10,37). Isso mostra que as especificações técnicas entre esses dois elementos são diferentes, possuindo diferenças na zona de saturação.
+Como foi esperado para essa simulação o sinal de tensão de saída dependente da tensão de alimentação que nesse caso foi de 12V. Testando os AmpOp LM324M observamos que o mesmo apresenta tensões de saturação diferentes (10,77V e -11,32V) e o AmpOp TL082 as tensões de saturação foram as mesmas (+-10,38V). Isso mostra que as especificações técnicas entre esses dois elementos são diferentes, possuindo diferenças na zona de saturação.
