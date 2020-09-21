@@ -87,4 +87,4 @@ Tensão de entrada de 0V:
 ![tensaoentrada0](/resources/imagens/relatorio1/parte4/tensaoentrada0.png)
 
 ### RESULTADOS SIMULAÇÕES
-Comparando os dois circuitos simulados para a tensão de entrada de 12V, temos que com o AmpOp LM324N a tensão de saída é maior (). Quando utilizado como tensão de entrada de 0V notasse que a tensão de saída do circuito LM32N fica menor () e a do circuito TL082 fica praticamente nula ().
+Comparando os dois circuitos simulados para a tensão de entrada de 12V, temos que com o AmpOp LM324N a tensão de saída é maior (128,12mV). Quando utilizado como tensão de entrada de 0V notasse que a tensão de saída do circuito LM32N fica menor (31,43mV) e a do circuito TL082 fica praticamente nula (120,67µV).
