@@ -19,6 +19,58 @@ use o resistor de realimentação com valor 510kΩ e ganho igual á 10V/V. Utili
 4. Caso o seja alterado para o circuito abaixo, existe alguma variação na saída? Explique.
 5. Justifique as dissimilaridades encontradas utilizando os dados do datasheet.
 
-### CALCULO DE R1:
+### CALCULO DOS RESISTORES (R1):
 
-![calculoganhodetensao]()
+![calculoresistores](/resources/imagens/relatorio1/parte4)
+
+
+### CIRCUITO AMPLIFICADOR SUBTRATOR COM O AMPOP LM324M
+
+![circuitoinversorlm324m](/resources/imagens/relatorio1/parte4)
+
+### CIRCUITO AMPLIFICADOR SUBTRATOR COM O AMPOP TL082
+
+![circuitoinversortl082](/resources/imagens/relatorio1/parte)
+
+### TENSÃO DE ENTRADA DE 12V COM APENAS UM RESISTOR DE 620Ω DE ENTRADA
+
+Tensão de saída do circuito LM324N:
+![tensaosaidalm324m](/resources/imagens/relatorio1/parte)
+
+Tensão de saída do circuito TL082:
+![tensaosaidatl082](/resources/imagens/relatorio1/parte)
+
+### TENSÃO DE ENTRADA DE 0V COM APENAS UM RESISTOR DE 620Ω DE ENTRADA
+
+Tensão de saída do circuito LM324N:
+![tensaosaidalm324m1](/resources/imagens/relatorio1/parte)
+
+Tensão de saída do circuito TL082:
+![tensaosaidatl0822](/resources/imagens/relatorio1/parte)
+
+### TENSÃO DE ENTRADA DE 12V COM MAIS UM RESISTOR DE 620Ω DE ENTRADA
+
+Tensão de saída do circuito LM324N:
+![tensaosaidalm324m2](/resources/imagens/relatorio1/parte)
+
+Tensão de saída do circuito TL082:
+![tensaosaidatl0823](/resources/imagens/relatorio1/parte)
+
+### TENSÃO DE ENTRADA DE 0V COM MAIS UM RESISTOR DE 620Ω DE ENTRADA
+
+Tensão de saída do circuito LM324N:
+![tensaosaidalm324m3](/resources/imagens/relatorio1/parte)
+
+Tensão de saída do circuito TL082:
+![tensaosaidatl0824](/resources/imagens/relatorio1/parte)
+
+### COMPARAÇÃO SINAL DE SAIDA DOS CIRCUITOS COM AMPOP LM324M E TL082
+
+Tensão de entrada de 12V:
+![tensaoentradalm3324m](/resources/imagens/relatorio1/parte)
+
+Tensão de entrada de 0V:
+![tensaoentradatl082](/resources/imagens/relatorio1/parte)
+
+### RESULTADOS SIMULAÇÕES
+Comparando os dois circuitos simulados para a tensão de entrada de 12V, temos que com o AmpOp LM324N a tensão de saída é maior (). Quando utilizado como tensão de entrada de 0V notasse que a tensão de saída do circuito LM32N fica menor () e a do circuito TL082 fica praticamente nula ().
