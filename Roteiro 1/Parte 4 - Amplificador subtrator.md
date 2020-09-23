@@ -21,7 +21,7 @@ use o resistor de realimentação com valor 510kΩ e ganho igual á 10V/V. Utili
 
 ### CALCULO DOS RESISTORES (R1):
 
-![calculoresistores](/resources/imagens/relatorio1/parte4/)
+![calculoresistores](/resources/imagens/relatorio1/parte4/calculoresistores.jpeg)
 
 
 ### CIRCUITO AMPLIFICADOR SUBTRATOR COM O AMPOP LM324M

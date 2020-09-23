@@ -8,3 +8,7 @@
 2. Pesquise sobre resistores shunt, respondendo as perguntas:
   O que são?
   Como determinar o valor do resistor para o circuito?
+
+##### Resistores Shunt
+
+#### Circuito para medir corrente
