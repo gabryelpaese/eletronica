@@ -1,6 +1,6 @@
 # Roteiro 2
 
-## Parte 01_a: Circuito Retificador de Meia Onda
+## Parte 01_b: Circuito Retificador de Meia Onda
 
 ##### PROCEDIMENTO:
 
