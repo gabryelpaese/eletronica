@@ -39,11 +39,9 @@ A onda Vout tem amplitude menor que a onda Vin, por causa da queda de tensão de
 
 ![ondacorrentediodo](/resources/imagens/relatorio2/parte1a/ondacorrentediodo.png)
 
-Valor máximo da corrente = 60 mA
-
-Valor médio da corrente = 18,62 mA
-
-Valor eficaz da corrente = 29,61 mA
+- Valor máximo da corrente = 60 mA
+- Valor médio da corrente = 18,62 mA
+- Valor eficaz da corrente = 29,61 mA
 
 ### CIRCUITO RETIFICADOR DE MEIA ONDA COM CAPACITOR DE 330μF
 
@@ -69,11 +67,9 @@ Com a presença do capacitor o circuito tem um redução na sua taxa de variaç�
 ![ondacorrentediodo2](/resources/imagens/relatorio2/parte1a/ondacorrentediodo2.png)
 ![extra](/resources/imagens/relatorio2/parte1a/extra.png)
 
-Valor máximo da corrente = 2,10 A
-
-Valor médio da corrente = 101,19 mA
-
-Valor eficaz da corrente = 350,45 mA
+- Valor máximo da corrente = 2,10 A
+- Valor médio da corrente = 101,19 mA
+- Valor eficaz da corrente = 350,45 mA
 
 ### CIRCUITO RETIFICADOR DE MEIA ONDA COM CAPACITOR DE 2200μF
 
@@ -98,11 +94,9 @@ Com o aumento da capacitância do circuito o valor da tensão de ripple diminuiu
 
 ![ondacorrentediodo3](/resources/imagens/relatorio2/parte1a/ondacorrentediodo3.png)
 
-Valor máximo da corrente = 14,03 A
-
-Valor médio da corrente = 406,28 mA
-
-Valor eficaz da corrente = 1,985 A
+- Valor máximo da corrente = 14,03 A
+- Valor médio da corrente = 406,28 mA
+- Valor eficaz da corrente = 1,985 A
 
 ### RESULTADOS
 
