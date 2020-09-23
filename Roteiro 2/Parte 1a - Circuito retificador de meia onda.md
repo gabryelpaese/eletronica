@@ -24,7 +24,7 @@ Utilize L1 = 336,11uH e L2 = 1uH diretiva do spice “k L1 L2 1”
 ![ondatensaosecundario](/resources/imagens/relatorio2/parte1a/ondatensaosecundario.png)
 ![ondatensaosecundario2](/resources/imagens/relatorio2/parte1a/ondatensaosecundario2.png)
 
-A onda Vout tem amplitude menor que a onda Vin, por causa da queda de tensão de 7,6V sobre o diodo para que o mesmo seja diretamente polarizado. O sinal de tensão Vout é zero no ciclo negativo de Vin por causa da polarização inversa do diodo.
+A onda Vo tem amplitude menor que a onda Vin, por causa da queda de tensão sobre o diodo para que o mesmo seja diretamente polarizado. O sinal de tensão Vo é zero no ciclo negativo de Vin por causa da polarização inversa do diodo.
 
 #### FORMATO DE ONDA DA TENSÃO NO ENROLAMENTO SECUNDÁRIO (Vin) E DA TENSÃO SOBRE O RESISTOR (Vo)
 

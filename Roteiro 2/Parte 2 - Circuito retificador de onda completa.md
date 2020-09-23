@@ -5,3 +5,5 @@
 ##### PROCEDIMENTO:
 
 1. Monte o circuito retificador de onda completa em ponte usando transformador, conforme mostrado nas Figuras 3 e 4. Anote os valores solicitados na Tabela 1.
+
+### CIRCUITO RETIFICADOR DE ONDA COMPLETA SEM CAPACITOR
