@@ -8,42 +8,42 @@
 
 ### CIRCUITO RETIFICADOR DE ONDA COMPLETA COM TRANSFORMADOR EM DERIVAÇÃO SEM CAPACITOR
 
-![circuitosemcapacitor](/resources/imagens/relatorio2/)
+![circuitosemcapacitor](/resources/imagens/relatorio2/parte3/circuitosemcapacitor.png)
 
 #### FORMATO DE ONDA DA TENSÃO NO ENROLAMENTO SECUNDÁRIO (Vin1) E DA TENSÃO TENSÃO NO ENROLAMENTO SECUNDÁRIO (Vin2)
 
-![ondatensaosecundario](/resources/imagens/relatorio2/)
+![ondatensaosecundarioin1in2](/resources/imagens/relatorio2/parte3/ondatensaosecundarioin1in2.png)
 
 #### FORMATO DE ONDA DA TENSÃO NO ENROLAMENTO SECUNDÁRIO (Vin1) E SEUS RESPECTIVOS VALORES
 
-![ondatensaosecundario](/resources/imagens/relatorio2/)
+![ondatensaosecundarioin1](/resources/imagens/relatorio2/parte3/ondatensaosecundarioin1.png)
 
 #### FORMATO DE ONDA DA TENSÃO NO ENROLAMENTO SECUNDÁRIO (Vin2) E SEUS RESPECTIVOS VALORES
 
-![ondatensaosecundario](/resources/imagens/relatorio2/)
+![ondatensaosecundarioin2](/resources/imagens/relatorio2/parte3/ondatensaosecundarioin2.png)
 
 #### FORMATO DE ONDA DA TENSÃO SOBRE O RESISTOR (Vo) E SEUS RESPECTIVOS VALORES
 
-![ondatensaosecundario](/resources/imagens/relatorio2/)
+![ondatensaoresistor](/resources/imagens/relatorio2/parte3/ondatensaoresistor.png)
 
 ### CIRCUITO RETIFICADOR DE ONDA COMPLETA COM TRANSFORMADOR EM DERIVAÇÃO COM CAPACITOR DE 220u
 
-![ondatensaosecundario](/resources/imagens/relatorio2/)
+![circuitocapacitor220](/resources/imagens/relatorio2/parte3/circuitocapacitor220.png)
 
 #### FORMATO DE ONDA DA TENSÃO SOBRE O RESISTOR (Vo) E SEUS RESPECTIVOS VALORES
 
-![ondatensaosecundario](/resources/imagens/relatorio2/)
+![ondatensaoresistor220](/resources/imagens/relatorio2/parte3/ondatensaoresistor220.png)
 
 ### CIRCUITO RETIFICADOR DE ONDA COMPLETA COM TRANSFORMADOR EM DERIVAÇÃO COM CAPACITOR DE 1000u
 
-![ondatensaosecundario](/resources/imagens/relatorio2/)
+![circuitocapacitor1000](/resources/imagens/relatorio2/parte3/circuitocapacitor1000.png)
 
 #### FORMATO DE ONDA DA TENSÃO SOBRE O RESISTOR (Vo) E SEUS RESPECTIVOS VALORES
 
-![ondatensaosecundario](/resources/imagens/relatorio2/)
+![ondatensaoresistor1000](/resources/imagens/relatorio2/parte3/ondatensaoresistor1000.png)
 
 #### TABELA DOS VALORES MEDIDOS
 
-![ondatensaosecundario](/resources/imagens/relatorio2/)
+![tabelacompleta](/resources/imagens/relatorio2/parte3/tabelacompleta.png)
 
 ### RESULTADOS
