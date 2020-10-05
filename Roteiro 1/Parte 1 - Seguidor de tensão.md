@@ -1,6 +1,6 @@
 # Roteiro 1
 
-## Parte 1: Seguidor de Tensão
+## Parte 01: Seguidor de Tensão
 
 ##### OBJETIVOS:
 

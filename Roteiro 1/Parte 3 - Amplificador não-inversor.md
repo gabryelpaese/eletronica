@@ -1,6 +1,6 @@
 # Roteiro 1
 
-## Parte 3: Amplificador não-inversor
+## Parte 03: Amplificador não-inversor
 
 ##### OBJETIVOS:
 

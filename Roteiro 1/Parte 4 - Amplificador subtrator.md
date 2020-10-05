@@ -1,6 +1,6 @@
 # Roteiro 1
 
-## Parte 4: Amplificador subtrator
+## Parte 04: Amplificador subtrator
 
 ##### OBJETIVOS:
 

@@ -1,6 +1,6 @@
 # Roteiro 1
 
-## Parte 2: Amplificador Inversor
+## Parte 02: Amplificador Inversor
 
 ##### OBJETIVOS:
 
