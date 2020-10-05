@@ -24,4 +24,4 @@ Aluno: Gabryel Luiz de Aguiar Paese
 ### [Parte 01 - Determinar os parâmetros do transistor](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%204/Parte%201%20-%20Determinar%20os%20par%C3%A2metros%20do%20transistor.md)
 ### [Parte 02 - Polarização de transistores do tipo NMOS](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%204/Parte%202%20-%20Polariza%C3%A7%C3%A3o%20de%20transistores%20do%20tipo%20NMOS.md)
 ### [Parte 03 - Espelho de corrente com transistores do tipo NMOS](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%204/Parte%203%20-%20Espelho%20de%20corrente%20com%20transistores%20do%20tipo%20NMOS.md)
-### [Parte 04 - Inversor com transistor do tipo NMOS (NMOS Inverter)](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%204/Parte%204%20-%20Inversor%20com%20transistor%20do%20tipo%20NMOS%20(NMOS%20Inverter.md)
+### [Parte 04 - Inversor com transistor do tipo NMOS Inverter]()
