@@ -47,3 +47,5 @@
 ![tabelacompleta](/resources/imagens/relatorio2/parte3/tabelacompleta.png)
 
 ### RESULTADOS
+
+O funcionamento deste circuito é funciona quando a tensão de entrada está no semi ciclo positivo, o diodo D1 conduz e passa este semi ciclo para a carga. O diodo D2 está aberto, e não passa corrente pela parte inferior do circuito. Quando o sinal de entrada se inverte, a corrente circula pelo diodo D2, e a carga recebe a corrente. Observe que ao contrário da retificação de meia onda, onde em um dos semi ciclos não há fluxo de corrente, no retificador de onda completa ambos os semi ciclos são aproveitados, e a carga recebe sempre a corrente no mesmo sentido. A carga está sempre conectada com a tensão de entrada. Em ambos os casos apenas uma polaridade do sinal é aplicada a carga.
