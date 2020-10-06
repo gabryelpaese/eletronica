@@ -8,18 +8,18 @@
 2. Projete um circuito dobrador de tensão utilizando como tensão de entrada um transformador com tap central de 12Vrms e no máximo 200ms de tempo de inicialização do circuito.
 3. Qual a tensão de ripple obtida?
 
-##### CÁLCULO CAPACITOR ESCOLHIDO
+### CÁLCULO CAPACITOR ESCOLHIDO
 
 ![calculocapacitor](/resources/imagens/relatorio3/parte1/calculocapacitor.png)
 
-##### CIRCUITO DOBRADOR DE TENSÃO
+### CIRCUITO DOBRADOR DE TENSÃO
 
 ![circuitodobrador](/resources/imagens/relatorio3/parte1/circuitodobrador.png)
 
-##### FORMATO DE ONDA DA TENSÃO VCC
+#### FORMATO DE ONDA DA TENSÃO VCC
 
 ![formaondadobrador](/resources/imagens/relatorio3/parte1/formaondadobrador.png)
 
-##### RESULTADOS
+### RESULTADOS
 
 Tensão de pico de 33,3 V. Com a utilização do capacitor de 50uF a tensão de ripper ficou com o valor aproximado de 892,59 mV da tensão de pico. Logo se utilizarmos valores maiores de capacitores a tensão de ripper será cada vez menor.

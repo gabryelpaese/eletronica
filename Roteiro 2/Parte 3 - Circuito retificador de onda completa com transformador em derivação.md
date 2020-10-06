@@ -42,7 +42,7 @@
 
 ![ondatensaoresistor1000](/resources/imagens/relatorio2/parte3/ondatensaoresistor1000.png)
 
-#### TABELA DOS VALORES MEDIDOS
+### TABELA DOS VALORES MEDIDOS
 
 ![tabelacompleta](/resources/imagens/relatorio2/parte3/tabelacompleta.png)
 

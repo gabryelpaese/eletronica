@@ -13,7 +13,7 @@ Aluno: Gabryel Luiz de Aguiar Paese
 ## Roteiro 2
 ### [Parte 01a - Circuito retificador de meia onda](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%202/Parte%201a%20-%20Circuito%20retificador%20de%20meia%20onda.md)
 ### [Parte 01b - Circuito retificador de meia onda](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%202/Parte%201b%20-%20Circuito%20retificador%20de%20meia%20onda.md)
-### [Parte 0 - Circuito retificador de onda completa](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%202/Parte%202%20-%20Circuito%20retificador%20de%20onda%20completa.md)
+### [Parte 02 - Circuito retificador de onda completa](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%202/Parte%202%20-%20Circuito%20retificador%20de%20onda%20completa.md)
 ### [Parte 03 - Circuito retificador de onda completa com transformador em derivação](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%202/Parte%203%20-%20Circuito%20retificador%20de%20onda%20completa%20com%20transformador%20em%20deriva%C3%A7%C3%A3o.md)
 
 ## Roteiro 3
