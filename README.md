@@ -25,3 +25,8 @@ Aluno: Gabryel Luiz de Aguiar Paese
 ### [Parte 02 - Polarização de transistores do tipo NMOS](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%204/Parte%202%20-%20Polariza%C3%A7%C3%A3o%20de%20transistores%20do%20tipo%20NMOS.md)
 ### [Parte 03 - Espelho de corrente com transistores do tipo NMOS](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%204/Parte%203%20-%20Espelho%20de%20corrente%20com%20transistores%20do%20tipo%20NMOS.md)
 ### [Parte 04 - Inversor com transistor do tipo NMOS Inverter](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%204/Parte%204%20-%20Inversor%20com%20transistor%20do%20tipo%20NMOS%20Inverter.md)
+
+## Roteiro Final
+### [Parte 01](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%201.md)
+### [Parte 02 - Calculando e dimensionando os componentes](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%202.md)
+### [Parte 03 - Adicionando um circuito de proteção de sobre corrente ao regulador linear](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%203.md)
