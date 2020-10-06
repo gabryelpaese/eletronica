@@ -22,7 +22,7 @@ O transistor Q1 está funcionando como um diodo, pois seus polos estão curto-ci
 
 #### CURVA IDS2 X V2
 
-![curvaids2xv2](/resources/imagens/relatorio4/parte3/.png)
+![curvaids2xv2](/resources/imagens/relatorio4/parte3/curvaids2xv2.png)
 
 ### MÁXIMO VALOR DE R2 PARA O FUNCIONAMENTO DO ESPELHO DE CORRENTE
 
