@@ -38,6 +38,6 @@ L = 1u;  W = 1u; u0 = 400; Cox = 0,4654; VA = 60; Vt = 2,154
 
 ![curvaidvdsdatasheet](/resources/imagens/relatorio4/parte1/curvaidcdsdatasheet.png)
 
-### COMPARAÇÃO DOS VALORES RDS
+### TABELA COMPARAÇÃO DOS VALORES RDS
 
-![comparacaovaloresrds](/resources/imagens/relatorio4/parte1/.png)
+![comparacaovaloresrds](/resources/imagens/relatorio4/parte1/comparacaovaloresrds.png)

@@ -25,12 +25,15 @@ Tensão de saída (Vout):
 
 ### VALOR DE RDS
 
-![](/resources/imagens/relatorio4/parte4/.png)
+![valorrds](/resources/imagens/relatorio4/parte4/.png)
 
 ### VALOR DE RDS COM VIN 2,5V
 
-![](/resources/imagens/relatorio4/parte4/.png)
+![valorvin25](/resources/imagens/relatorio4/parte4/.png)
 
-### COMPARAÇÃO DOS VALORES DE RDS
+### TABELA COMPARAÇÃO DOS VALORES DE RDS
 
-![](/resources/imagens/relatorio4/parte4/.png)
+![comparacaovalorrds](/resources/imagens/relatorio4/parte4/.png)
+
+### RESULTADOS
+Entre os valores das ondas de saída e entrada, podemos notar que a onda Vin permanece por mais tempo no seu menor ponto (0V) enquanto que a onda em Vout permanece por mais tempo no seu maior ponto (5V), também a onda Vout são apresenta pequenos picos que levam a tensão para aproximadamente 6V ou -0.7V, essa característica não acontece na tensão de entrada.
