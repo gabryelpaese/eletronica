@@ -28,19 +28,17 @@ Tensão de saída (Vout):
 #### PARA Vin = 2,5 Vpp
 
 Tensão de entrada (Vin):
-![tensaoentrada](/resources/imagens/relatorio4/parte4/tensaoentrada.png)
+![tensaoentrada2](/resources/imagens/relatorio4/parte4/tensaoentrada2.png)
 
 Tensão de saída (Vout):
-![tensaosaida](/resources/imagens/relatorio4/parte4/tensaosaida.png)
+![tensaosaida2](/resources/imagens/relatorio4/parte4/tensaosaida2.png)
 
 ### VALORES DE RDS
 
 #### PARA Vin = 5 Vpp
 
-![valorrds](/resources/imagens/relatorio4/parte4/.png)
+![valorrds](/resources/imagens/relatorio4/parte4/valorrds.png)
 
 #### PARA Vin = 2,5 Vpp
 
-![valorvin25](/resources/imagens/relatorio4/parte4/.png)
-
-### RESULTADOS
+![valorvin25](/resources/imagens/relatorio4/parte4/valorvin25.png)
