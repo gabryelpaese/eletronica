@@ -17,23 +17,30 @@
 
 ### COMPARAÇÃO DAS FORMAS DE ONDA DE ENTRADA E SAÍDA
 
+#### PARA Vin = 5 Vpp
+
 Tensão de entrada (Vin):
 ![tensaoentrada](/resources/imagens/relatorio4/parte4/tensaoentrada.png)
 
 Tensão de saída (Vout):
 ![tensaosaida](/resources/imagens/relatorio4/parte4/tensaosaida.png)
 
-### VALOR DE RDS
+#### PARA Vin = 2,5 Vpp
+
+Tensão de entrada (Vin):
+![tensaoentrada](/resources/imagens/relatorio4/parte4/tensaoentrada.png)
+
+Tensão de saída (Vout):
+![tensaosaida](/resources/imagens/relatorio4/parte4/tensaosaida.png)
+
+### VALORES DE RDS
+
+#### PARA Vin = 5 Vpp
 
 ![valorrds](/resources/imagens/relatorio4/parte4/.png)
 
-### VALOR DE RDS COM VIN 2,5V
+#### PARA Vin = 2,5 Vpp
 
 ![valorvin25](/resources/imagens/relatorio4/parte4/.png)
 
-### TABELA COMPARAÇÃO DOS VALORES DE RDS
-
-![comparacaovalorrds](/resources/imagens/relatorio4/parte4/.png)
-
 ### RESULTADOS
-Entre os valores das ondas de saída e entrada, podemos notar que a onda Vin permanece por mais tempo no seu menor ponto (0V) enquanto que a onda em Vout permanece por mais tempo no seu maior ponto (5V), também a onda Vout são apresenta pequenos picos que levam a tensão para aproximadamente 6V ou -0.7V, essa característica não acontece na tensão de entrada.
