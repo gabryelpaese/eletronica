@@ -44,4 +44,3 @@ Tensão de saída (Vout):
 ![valorvin25](/resources/imagens/relatorio4/parte4/valorvin25.png)
 
 ### RESULTADOS
-Notasse que ao diminuir a tensão de entrada (Vin) de 5V para 2,5V não teve alteração na tensão de saída do transistor (Vout), continuou sendo 5V.
