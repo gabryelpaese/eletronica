@@ -26,7 +26,7 @@ O transistor Q1 está funcionando como um diodo, pois seus polos estão curto-ci
 
 ### MÁXIMO VALOR DE R2 PARA O FUNCIONAMENTO DO ESPELHO DE CORRENTE
 
-![maxvalorr2](/resources/imagens/relatorio4/parte3/maxvalorr2.png)
+![maxvalorr](/resources/imagens/relatorio4/parte3/maxvalorr.png)
 
 ### COMPARAÇÃO DOS VALORES
 
