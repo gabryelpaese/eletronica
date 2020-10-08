@@ -12,7 +12,7 @@
 
 ### PARÂMETROS DO TRANSISTOR 2N7002
 
-L = 1u;  W = 1u; u0 = 400; Cox = 0,0011635; Vt = 2,154 V
+L = 1u ;  W = 1u ; u0 = 400 ; Cox = 0,0011635 ; Vt = 2,154 V
 
 ### CÁLCULO DOS VALORES DE RDS PARA TENSÕES VGS
 
