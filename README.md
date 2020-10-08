@@ -31,9 +31,9 @@ Aluno: Gabryel Luiz de Aguiar Paese
 ### [Parte 02 - Calculando e dimensionando os componentes](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%202.md)
 ### [Parte 03 - Adicionando um circuito de proteção de sobre corrente ao regulador linear](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%203.md)
 
-## Draft
-### [Roteiro 1](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%201.md)
-### [Roteiro 2](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%201.md)
-### [Roteiro 3](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%201.md)
-### [Roteiro 4](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%201.md)
-### [Roteiro Final](https://github.com/gabryelpaese/eletronica1/blob/master/Roteiro%20Final/Parte%201.md)
+## Draft (.asc)
+### [Roteiro 1](https://github.com/gabryelpaese/eletronica1/tree/master/resources/draft/relatorio1)
+### [Roteiro 2](https://github.com/gabryelpaese/eletronica1/tree/master/resources/draft/relatorio2)
+### [Roteiro 3](https://github.com/gabryelpaese/eletronica1/tree/master/resources/draft/relatorio3)
+### [Roteiro 4](https://github.com/gabryelpaese/eletronica1/tree/master/resources/draft/relatorio4)
+### [Roteiro Final](https://github.com/gabryelpaese/eletronica1/tree/master/resources/draft)
