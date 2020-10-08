@@ -44,3 +44,4 @@ Tensão de saída (Vout):
 ![valorvin25](/resources/imagens/relatorio4/parte4/valorvin25.png)
 
 ### RESULTADOS
+Como esperado para o circuito inversor, se tivermos sinal de tensão de entrada será zerada a tensão de saída, se não tivermos tensão de entrada será a tensão de Vcc, pois Vd está aterrado.

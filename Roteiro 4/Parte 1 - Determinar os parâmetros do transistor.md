@@ -20,9 +20,7 @@ L = 1u;  W = 1u; u0 = 400; Cox = 0,4654; VA = 60; Vt = 2,154
 
 ### TENSÕES MÁXIMAS DE OPERAÇÃO DO TRANSISTOR 2N7002
 
-![tensoesmax2n70021](/resources/imagens/relatorio4/parte1/tensoesmax2n70021.png)
-![tensoesmax2n70022](/resources/imagens/relatorio4/parte1/tensoesmax2n70022.png)
-![tensoesmax2n70023](/resources/imagens/relatorio4/parte1/tensoesmax2n70023.png)
+![tensoesmax2n7002](/resources/imagens/relatorio4/parte1/tensoesmax2n7002.png)
 
 ### COMPARAÇÃO ENTRE AS CURVAS ID X VDS
 
