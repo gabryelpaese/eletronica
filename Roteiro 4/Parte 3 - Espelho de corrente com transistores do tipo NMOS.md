@@ -16,22 +16,29 @@ O transistor Q1 está funcionando como um diodo, pois seus polos estão curto-ci
 
 ### CURVA IDS2 X V2 (VARIANDO R2)
 
-#### CIRCUITO PARA IDS2 X V2
+#### CIRCUITO PARA ESPELHO DE CORRENTE COM TRANSISTORES NMOS
 
-![circuitocurvaids2xv2](/resources/imagens/relatorio4/parte3/circuitocurvaids2xv2.png)
+![circuitocurvaids2xv22](/resources/imagens/relatorio4/parte3/circuitocurvaids2xv22.png)
 
 #### CURVA IDS2 X V2
 
-![curvaids2xv2](/resources/imagens/relatorio4/parte3/curvaids2xv2.png)
+![curvaids2xv2](/resources/imagens/relatorio4/parte3/.png)
 
 ### MÁXIMO VALOR DE R2 PARA O FUNCIONAMENTO DO ESPELHO DE CORRENTE
 
+#### VALOR CALCULADO
+
 ![maxvalorr](/resources/imagens/relatorio4/parte3/maxvalorr.png)
+
+#### CURVA IDS2 X R2
+
+![curvaids2xr2](/resources/imagens/relatorio4/parte3/curvaids2xr2.png)
+![curvaids2xr22](/resources/imagens/relatorio4/parte3/curvaids2xr22.png)
 
 ### COMPARAÇÃO DOS VALORES
 
-![comparacaovalores](/resources/imagens/relatorio4/parte3/comparacaovalores.png)
-![comparacaovalores2](/resources/imagens/relatorio4/parte3/comparacaovalores2.png)
+![comparacaovaloress](/resources/imagens/relatorio4/parte3/comparacaovaloress.png)
+![comparacaovalores22](/resources/imagens/relatorio4/parte3/comparacaovalores22.png)
 
 ### RESULTADOS
 Para valores menores do que o valor máximo de R2 (1023,68 Ω), o transistor Q2 permanecerá tendo o valor mínimo de tensão Vt (2,154 V) para condução, ao contrario Q2 não estará em condução. A diferença entre o valor teórico e o calculado do R2 foi de 181,925 Ω.

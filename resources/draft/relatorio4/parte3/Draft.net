@@ -1,11 +1,8 @@
-* C:\Users\gabry\eletronica1\resources\draft\relatorio4\parte2\Draft2.asc
-V1 N001 0 9
-R1 N001 VG 10k
-R2 VG 0 10k
-R3 N001 VD 2k
-R4 VS 0 1k
-XU1 VD VG VS N7002
-.op
+* C:\Users\gabry\eletronica1\resources\draft\relatorio4\parte3\Draft.asc
+V1 N003 0 10
+R1 N003 N002 1k
+XU1 N003 N002 0 N7002
+XU2 N002 N002 0 N7002
 *---------- 2N7002 Spice Model ----------
 .SUBCKT N7002 10 20 30
 *     TERMINALS:  D  G  S
@@ -31,6 +28,7 @@ DSD 3 10 DSUB
 .MODEL DLIM D IS = 0.0001
 .ENDS
 *Diodes N7002 Spice Model v0 Last Revised 2017/2/9
+.op
 .lib C:\Users\gabry\Documents\LTspiceXVII\N7002.txt
 .backanno
 .end
