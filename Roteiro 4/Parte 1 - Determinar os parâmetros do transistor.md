@@ -16,7 +16,7 @@ L = 1u ;  W = 1u ; u0 = 400 ; Cox = 0,0011635 ; Vt = 2,154 V
 
 ### CÁLCULO DOS VALORES DE RDS PARA TENSÕES VGS
 
-![calculotensoesvgs](/resources/imagens/relatorio4/parte1/calculotensoesvgs.png)
+![calculotensoesvgss](/resources/imagens/relatorio4/parte1/calculotensoesvgss.png)
 
 ### TENSÕES MÁXIMAS DE OPERAÇÃO DO TRANSISTOR 2N7002
 
@@ -26,11 +26,11 @@ L = 1u ;  W = 1u ; u0 = 400 ; Cox = 0,0011635 ; Vt = 2,154 V
 
 #### CIRCUITO COM TRANSISTOR
 
-![circuitotransistor](/resources/imagens/relatorio4/parte1/circuitotransistor.png)
+![circuitotransistorr](/resources/imagens/relatorio4/parte1/circuitotransistorr.png)
 
 #### CURVA ID X VDS DA SIMULAÇÃO
 
-![curvaidvdssimulacao](/resources/imagens/relatorio4/parte1/curvaidvdssimulacao.png)
+![curvaidvdssimulacaoo](/resources/imagens/relatorio4/parte1/curvaidvdssimulacaoo.png)
 
 #### CURVA ID X VDS DO DATASHEET
 
@@ -38,4 +38,4 @@ L = 1u ;  W = 1u ; u0 = 400 ; Cox = 0,0011635 ; Vt = 2,154 V
 
 ### TABELA COMPARAÇÃO DOS VALORES RDS
 
-![comparacaovaloresrds](/resources/imagens/relatorio4/parte1/comparacaovaloresrds.png)
+![comparacaovaloresrdss](/resources/imagens/relatorio4/parte1/comparacaovaloresrdss.png)
