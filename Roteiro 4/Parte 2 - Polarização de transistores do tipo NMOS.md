@@ -10,15 +10,15 @@
 
 ### SIMULAÇÃO DO CIRCUITO POLARIZAÇÃO DE TRANSISTORES DO TIPO NMOS
 
-![simulacaocircuito](/resources/imagens/relatorio4/parte2/simulacaocircuito.png)
+![simulacaocircuitoo](/resources/imagens/relatorio4/parte2/simulacaocircuitoo.png)
 
 ### REGIÃO POLARIZADA DO TRANSISTOR
 
-![regiaopolarizada](/resources/imagens/relatorio4/parte2/regiaopolarizada.png)
+![regiaopolarizadaa](/resources/imagens/relatorio4/parte2/regiaopolarizadaa.png)
 
 ### COMPARAÇÃO DOS VALORES
 
-![comparacaovalores](/resources/imagens/relatorio4/parte2/comparacaovalores.png)
+![comparacaovaloress](/resources/imagens/relatorio4/parte2/comparacaovaloress.png)
 
 ### RESULTADOS
 Ambas as regiões, calculada e simulada, estão na região de saturação.
