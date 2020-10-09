@@ -13,33 +13,33 @@
 
 ### SIMULAÇÃO DO CIRCUITO INVERSOR COM TRANSISTOR DO TIPO NMOS INVERTER
 
-![simulacaocircuito](/resources/imagens/relatorio4/parte4/simulacaocircuito.png)
+![simulacaocircuitoo](/resources/imagens/relatorio4/parte4/simulacaocircuitoo.png)
 
 ### COMPARAÇÃO DAS FORMAS DE ONDA DE ENTRADA E SAÍDA
 
-#### PARA Vin = 5 Vpp
+#### Para Vin = 5 Vpp
 
 Tensão de entrada (Vin):
-![tensaoentrada](/resources/imagens/relatorio4/parte4/tensaoentrada.png)
+![tensaoentradaa](/resources/imagens/relatorio4/parte4/tensaoentradaa.png)
 
 Tensão de saída (Vout):
-![tensaosaida](/resources/imagens/relatorio4/parte4/tensaosaida.png)
+![tensaosaidaa](/resources/imagens/relatorio4/parte4/tensaosaidaa.png)
 
-#### PARA Vin = 2,5 Vpp
+#### Para Vin = 2,5 Vpp
 
 Tensão de entrada (Vin):
-![tensaoentrada2](/resources/imagens/relatorio4/parte4/tensaoentrada2.png)
+![tensaoentrada22](/resources/imagens/relatorio4/parte4/tensaoentrada22.png)
 
 Tensão de saída (Vout):
-![tensaosaida2](/resources/imagens/relatorio4/parte4/tensaosaida2.png)
+![tensaosaida22](/resources/imagens/relatorio4/parte4/tensaosaida22.png)
 
 ### VALORES DE RDS
 
-#### PARA Vin = 5 Vpp
+#### Para Vin = 5 Vpp
 
 ![valorrds](/resources/imagens/relatorio4/parte4/valorrds.png)
 
-#### PARA Vin = 2,5 Vpp
+#### Para Vin = 2,5 Vpp
 
 ![valorvin25](/resources/imagens/relatorio4/parte4/valorvin25.png)
 
