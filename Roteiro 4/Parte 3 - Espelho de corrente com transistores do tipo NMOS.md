@@ -41,4 +41,4 @@ O transistor Q1 está funcionando como um diodo, pois seus polos estão curto-ci
 ![comparacaovalores22](/resources/imagens/relatorio4/parte3/comparacaovalores22.png)
 
 ### RESULTADOS
-Para valores menores do que o valor máximo de R2 (1023,68 Ω), o transistor Q2 permanecerá tendo o valor mínimo de tensão Vt (2,154 V) para condução, ao contrario Q2 não estará em condução. A diferença entre o valor teórico e o calculado do R2 foi de 181,925 Ω.
+Para valores menores do que o valor máximo de R2 (1023,68 Ω), o transistor Q2 permanecerá tendo o valor mínimo de tensão Vt (2,154 V) para condução, ao contrario Q2 não estará em condução.
