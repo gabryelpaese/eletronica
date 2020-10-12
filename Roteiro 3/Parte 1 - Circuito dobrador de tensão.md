@@ -22,4 +22,4 @@
 
 ### RESULTADOS
 
-Tensão de pico de 33,3 V. Com a utilização do capacitor de 50uF a tensão de ripper ficou com o valor aproximado de 892,59 mV da tensão de pico. Logo se utilizarmos valores maiores de capacitores a tensão de ripper será cada vez menor.
+Tensão de pico de 33,3 V. Com a utilização do capacitor de 50uF a tensão de ripple ficou com o valor aproximado de 892,59 mV da tensão de pico. Logo se utilizarmos valores maiores de capacitores a tensão de ripple será cada vez menor.

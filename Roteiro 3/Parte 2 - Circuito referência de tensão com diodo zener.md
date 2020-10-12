@@ -64,5 +64,3 @@ Diferença na tensão de pico 30,90V, e a tensão Vcc 26,91V diferente do valor 
 
 #### SITUAÇÃO 2
 Com a diminuição da corrente zener para 1,5mA, sofreram mudanças no resistor R e na tensão Vz0, resultando com a tensão de saída Vcc idêntica ao valor calculado.
-
-#### SITUAÇÃO 3

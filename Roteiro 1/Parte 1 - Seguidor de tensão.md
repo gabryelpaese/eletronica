@@ -55,5 +55,4 @@ Comparação entre tensão de entrada e saída do circuito:
 ![2comparaçaosaidaentradatl082](/resources/imagens/relatorio1/parte1/2comparaçaosaidaentradatl082.png)
 
 ### RESULTADOS
-O seguidor de tensão, fornece um ganho unitário sem inversão de polaridade ou fase. Portanto a saída possui mesma amplitude, polaridade e fase de entrada. O circuito atua como isolador (buffer) de estágios, reforçador de correntes e casador de impedâncias.
-Nos experimentos analisamos que a tensão RMS de entrada é aproximadamente igual a tensão RMS de saída nos AmpOp TL082 e LM324M, tendo uma diferença insignificante.
+O seguidor de tensão, fornece um ganho unitário sem inversão de polaridade ou fase. Portanto a saída possui mesma amplitude, polaridade e fase de entrada. O circuito atua como isolador (buffer) de estágios, reforçador de correntes e casador de impedâncias. Nos experimentos analisamos que a tensão RMS de entrada é aproximadamente igual a tensão RMS de saída nos AmpOp TL082 e LM324M, tendo uma diferença insignificante.

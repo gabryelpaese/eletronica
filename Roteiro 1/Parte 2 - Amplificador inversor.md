@@ -93,6 +93,6 @@ Na tensão 10,38V ocorreu saturação positiva e na tensão de -10,38V ocorreu a
 
 ### RESULTADOS SATURAÇÃO
 
-Foi observado que o sinal é amplificado e invertido utilizando o circuito do AmpOp Inversor. Nesse experimento o sinal de saída tinha a amplitude dez vezes maior do que o sinal de entrada e os ciclos positivos do sinal de saída coincidiam com os ciclos negativos do sinal de entrada.
+Nessa simulação foi observado que o sinal de saída foi amplificado e invertido por causa do circuito do AmpOp Inversor. Também foi observado que o sinal de saída teve uma amplitude dez vezes maior do que o sinal de entrada e os ciclos positivos do sinal de saída coincidiam com os ciclos negativos do sinal de entrada.
 
 Como foi esperado para essa simulação o sinal de tensão de saída dependente da tensão de alimentação que nesse caso foi de 12V. Testando os AmpOp LM324M observamos que o mesmo apresenta tensões de saturação diferentes (10,77V e -11,32V) e o AmpOp TL082 as tensões de saturação foram as mesmas (+-10,38V). Isso mostra que as especificações técnicas entre esses dois elementos são diferentes, possuindo diferenças na zona de saturação.
