@@ -1,0 +1,21 @@
+Circuit: * C:\Users\gabry\eletronica1\resources\draft\roteirofinal\retificador.asc
+
+.OP point found by inspection.
+
+Date: Wed Oct 14 15:14:50 2020
+Total elapsed time: 0.074 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3893
+traniter = 3893
+tranpoints = 1758
+accept = 1593
+rejected = 165
+matrix size = 9
+fillins = 8
+solver = Normal
+Matrix Compiler1:      48 opcodes  0.3/[0.1]/0.1
+Matrix Compiler2: 831 bytes object code size  0.1/0.1/[0.1]
+

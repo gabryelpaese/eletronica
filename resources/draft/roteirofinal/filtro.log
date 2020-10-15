@@ -1,0 +1,21 @@
+Circuit: * C:\Users\gabry\eletronica1\resources\draft\roteirofinal\filtro.asc
+
+.OP point found by inspection.
+
+Date: Wed Oct 14 20:25:20 2020
+Total elapsed time: 0.080 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 7815
+traniter = 7815
+tranpoints = 3298
+accept = 2689
+rejected = 609
+matrix size = 13
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.06 KB object code size  0.4/0.2/[0.2]
+Matrix Compiler2: 1.10 KB object code size  0.2/0.2/[0.1]
+
