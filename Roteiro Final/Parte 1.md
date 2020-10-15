@@ -122,8 +122,11 @@ Devemos realizar a filtragem da corrente continua, pois a mesma não está pura,
 Usaremos 1,1A para o circuito, sendo a limitação do AmpOp de 10mA, também usaremos 60hz para frequência e 1V para tensão de ripple.
 
 Vrpp = Vout/2.R.f.C = I/2.f.C
+
 C = I/(2.f.Vrrp)
+
 C = 1,1/(2.60.1)
+
 C =  9,1667mF
 
 ![circuitofiltro](/resources/imagens/relatoriofinal/parte1/circuitofiltro.png)
@@ -143,8 +146,24 @@ Utilizando as considerações apresentadas anteriormente:
 - Vripple_pós_retificador = 1V;
 - Quedas de tensão nos diodos = 0,7V.
 
-![projcircuitoproposto02](/resources/imagens/relatoriofinal/parte1/.png)
+Como definimos a tensão de saída em 15V, vamos calcular o de R3 e R4, atribuindo um valor para D6:
 
-![ondaprojcircuitoproposto02](/resources/imagens/relatoriofinal/parte1/.png)
+Vout = (1 + R3/R4) . Vz
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Vz = 10V Vout = 15V
+
+Logo, R4 = 10kΩ e R3 = 5kΩ
+
+![projcircuitoproposto02](/resources/imagens/relatoriofinal/parte1/projcircuitoproposto02.png)
+
+##### Onda da tensão de saída Vout
+
+![ondaprojcircuitoproposto02](/resources/imagens/relatoriofinal/parte1/ondaprojcircuitoproposto02.png)
+
+Identificamos que o circuito demora aproximadamente 34,32ms para permanecer praticamente constante em 14,99V.
+
+##### Onda da tensão de saída Vout com uma carga de 15Ω
+
+![ondaripple15](/resources/imagens/relatoriofinal/parte1/ondaripple15.png)
+
+Observamos que para a tensão de ripple com a carga de 15Ω foi obtido 1,309mV.

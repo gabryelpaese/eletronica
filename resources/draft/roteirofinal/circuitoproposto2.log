@@ -1,0 +1,22 @@
+Circuit: * C:\Users\gabry\eletronica1\resources\draft\roteirofinal\circuitoproposto2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Oct 15 03:47:38 2020
+Total elapsed time: 0.399 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9120
+traniter = 9073
+tranpoints = 3643
+accept = 2948
+rejected = 695
+matrix size = 94
+fillins = 123
+solver = Normal
+Thread vector: 13.4/10.3[2] 6.2/4.7[2] 2.7/2.4[2] 0.7/1.9[1]  2592/500
+Matrix Compiler1: 14.14 KB object code size  4.4/2.3/[1.2]
+Matrix Compiler2: 10.11 KB object code size  1.6/2.2/[1.1]
+
