@@ -1,0 +1,27 @@
+* C:\Users\gabry\eletronica1\resources\draft\roteirofinal\filtro.asc
+V1 N001 0 SINE(0 311 60) Rser=0.00001
+L1 0 N001 336.11µ
+L2 0 Vin+ 1µ
+L3 N003 0 1µ
+D1 Vin+ N002 d1n4007
+D2 N003 N002 d1n4007
+C1 N002 0 9.1667m
+R1 N002 0 16.3
+C2 Vin+ N004 505.05µ
+C3 Vc3 0 505.05µ
+D3 N004 Vc3 d1n4007
+D4 0 N004 d1n4007
+R2 Vc3 N005 1108
+D6 0 N005 UMZ27K
+Q1 Vc3 N005 Vcc 0 2N3904
+C4 Vcc 0 100n
+.model D D
+.lib C:\Users\gabry\Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\gabry\Documents\LTspiceXVII\lib\cmp\standard.bjt
+K L1 L2 L3 1
+.lib C:\Users\gabry\Documents\LTspiceXVII\1n4007.txt
+.tran 200m
+.backanno
+.end

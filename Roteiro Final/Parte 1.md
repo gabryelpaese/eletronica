@@ -74,15 +74,15 @@ Como apresentado anteriormente no datasheet do AmpOp LM324, do fabricante Texas 
 
 Agora iremos adicionar o diodo zener, sabendo que como o AmpOp LM324 informado pelo seu datasheet anteriormente nos diz que a alimentação singular é de 3V a 32V, selecionamos o diodo zener UMZ27K da fabricante ROHM Semiconductor e o transistor 2N3904 da NXP, por possuir um hfe elevado. Com o intuito de diminuir a oscilação da tensão de saída do circuito dobrador.
 
-![circuitoreguladordobrador](/resources/imagens/relatoriofinal/parte1/.png)
+![circuitoreguladordobrador](/resources/imagens/relatoriofinal/parte1/circuitoreguladordobrador.png)
 
 A tensão de saída calculada é de Vcc = Vz - VBR = 26,3V.
 
 ##### Onda da tensão de saída do circuito regulador do dobrador
 
-![ondadobradortensao](/resources/imagens/relatoriofinal/parte1/.png)
+![ondareguladordobrador](/resources/imagens/relatoriofinal/parte1/ondareguladordobrador.png)
 
-O Vcc apresentado foi de XV.
+O Vcc apresentado foi de 26,49V.
 
 ### CIRCUITO PROPOSTO (02) PARA A ALIMENTAÇÃO DO AMPOP
 
