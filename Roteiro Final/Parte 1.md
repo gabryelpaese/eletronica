@@ -150,7 +150,7 @@ Como definimos a tensão de saída em 15V, vamos calcular o de R3 e R4, atribuin
 
 Vout = (1 + R3/R4) . Vz
 
-Vz = 10V Vout = 15V
+Vz = 10V e Vout = 15V
 
 Logo, R4 = 10kΩ e R3 = 5kΩ
 
